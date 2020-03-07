@@ -85,7 +85,7 @@ class Footer extends React.Component {
   }
 }
 
-  class IslandSnow extends React.Component {
+  class ReactXC extends React.Component {
 
     render() {
       return (
@@ -99,4 +99,4 @@ class Footer extends React.Component {
     }
   }
 
-  ReactDOM.render(<IslandSnow/>, document.getElementById('root'));
+  ReactDOM.render(<ReactXC/>, document.getElementById('root'));
